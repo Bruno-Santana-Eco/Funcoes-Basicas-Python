@@ -38,7 +38,13 @@ Os operadores aritméticos em Python são utilizados para realizar operações m
 
 ## 3) Strings
 
+Variáveis do tipo string armazenam cadeias de caracteres como nomes e textos em geral. Chamamos cadeia de caracteres uma sequência de símbolos como letras, números, sinais de pontuação etc. É definida entre aspas simples ('Digite aqui seu texto') ou aspas duplas ("Digite aqui seu texto"). As strings são imutáveis, o que significa que não podem ser alteradas após a criação. No entanto, é possível criar uma nova string a partir de uma string existente, por exemplo, concatenando duas strings:
+
 ## 4) Condições
+
+Quando se é necessário tomar decisões com situações diferentes e se os problemas podem ser resolvidos com expressões lógicas podemos usar as condições.
+
+As condições consistem no uso de uma estrutura de decisão, a primeira estrutura de decisão se chama 'if' nada mais é que o famoso 'se', 'se' a condição for verdadeira será executado o código. Usarei exemplos para definir melhor essa função. Da mesma maneira e tentando resolver problemas de situações distintas quando o 'if' não é atendido (situação verdadeira) tem a possibilidade de outra estrutura de decisão chamada 'else', comumente chamada de 'senão', ou seja, 'senão' for atendida a condição 'se' será executado o código descrito na condição 'else' (situação falsa). Perceba que situação verdadeira e falsa é meramente instruções lógicas para atender problemas, caso uma situação lógica não for atendida a outra será colocada em prática. Em python é possível colocar mais de uma condição usando a instrução 'elif', isso permite solucionar diversos problemas.
 
 ## 5) Repetições
 
