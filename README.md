@@ -53,7 +53,7 @@ Geralmente é usado **"for"** quando o programador sabe a quantidade exata de re
 
 ## 6) Tuplas
 
-Em Python, uma tupla é um tipo de sequência imutável, ou seja, uma coleção de objetos que não pode ser modificada após a criação. É definida utilizando parênteses e os elementos são separados por vírgulas.
+Em Python, uma tupla é um tipo de sequência imutável, ou seja, uma coleção de objetos que não pode ser modificada após a criação. É definida utilizando parênteses ( ) e os elementos são separados por vírgulas.
 
 Uma tupla pode conter elementos de diferentes tipos de dados, como inteiros, strings, floats, booleanos, listas, dicionários e até mesmo outras tuplas. As tuplas são indexadas e podem ser acessadas de maneira semelhante às listas, utilizando colchetes e o índice correspondente.
 
@@ -61,9 +61,17 @@ As tuplas são úteis em situações em que é necessário armazenar um conjunto
 
 ## 7) Listas
 
-Em Python, listas são uma coleção de elementos ordenados e mutáveis. Elas podem armazenar uma sequência de objetos, incluindo outros tipos de dados como inteiros, floats, strings, tuplas e até outras listas. As listas são definidas usando colchetes [] e os elementos são separados por vírgulas.
+Em Python, listas são uma coleção de elementos ordenados e mutáveis. Elas podem armazenar uma sequência de objetos, incluindo outros tipos de dados como inteiros, floats, strings, tuplas e até outras listas. As listas são definidas usando colchetes [ ] e os elementos são separados por vírgulas.
 
 ## 8) Dicionários
 
+Em Python, um dicionário é uma estrutura de dados que mapeia um conjunto de chaves a seus respectivos valores. É uma coleção não ordenada, mutável e indexada. As chaves devem ser únicas e imutáveis (como strings, números ou tuplas) e os valores podem ser de qualquer tipo de dado.
+
+Um dicionário é definido utilizando chaves { } e os pares chave-valor separados por dois pontos :
+
 ## 9) Funções
+
+Funções em Python são blocos de código nomeados que executam uma determinada tarefa. Elas são definidas com a palavra-chave "def", seguida pelo nome da função e seus parâmetros entre parênteses.
+Diferente do que já vimos, as linhas não serão executadas imediatamente, ela executa somente quando a função é chamada em outra parte do programa.
+Funções são especialmente interessantes para isolar uma tarefa específica em um trecho de programa. Isso permite que a solução de um problema seja reutilizada em outras partes do programa, sem precisar repetir as mesmas linhas. 
 
