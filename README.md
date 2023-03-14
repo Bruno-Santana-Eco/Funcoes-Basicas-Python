@@ -2,7 +2,7 @@
 ---
 ## Descrição
 
-Bom para meu primeiro portfólio irei começar com as funções básicas de python e a resolução de alguns problemas. Descrever bem cada comando do Python em uma apresentação é importante porque ajuda a garantir que a compreensão do que está acontecendo em cada etapa do seu código e por que você está tomando determinadas decisões. Ajudando a criar um contexto claro para o código que está apresentando, permitindo seguir a lógica do meu raciocínio e entender como cheguei a cada solução. Além disso, uma boa descrição ajuda a garantir não ficar confuso ou perdido durante a apresentação, permitindo a concentração em fornecer informações mais avançadas e insights mais valiosos. Por fim, descrever bem cada comando do Python em uma apresentação é uma tentativa de demonstrar habilidades de comunicação de forma clara e eficaz.
+Bom para meu primeiro portfólio irei começar com as funções básicas de python e a resolução de alguns problemas. Descrever bem cada comando do Python em uma apresentação é importante porque ajuda a garantir que a compreensão do que está acontecendo em cada etapa do seu código e por que você está tomando determinadas decisões. Ajudando a criar um contexto claro para o código que está apresentando, permitindo seguir a lógica do meu raciocínio e entender como cheguei a cada solução. Além disso, uma boa descrição ajuda a garantir não ficar confuso ou perdido durante a apresentação, permitindo a concentração em fornecer informações mais avançadas e insights mais valiosos. Por fim, descrever bem cada comando do Python em uma apresentação é uma tentativa de demonstrar habilidades de comunicação de forma clara e eficaz. Inicialmente irei fazer um breve resumo de cada capítulo dentro do código para facilitar a procura 
 
 ## 1) Tipo de entradas e saída de dados
   Em Python, as variáveis podem ser de vários tipos diferentes. Abaixo estão os principais tipos de variáveis em Python:
@@ -34,11 +34,11 @@ Os operadores aritméticos em Python são utilizados para realizar operações m
 * Divisão (/): utilizado para dividir valores. Retorna um número de ponto flutuante.
 * Divisão inteira (//): retorna o resultado da divisão com o resultado inteiro, sem arredondamento.
 * Resto da divisão (%): retorna o resto da divisão.
-* Potenciação (**): utilizado para elevar um número à potência de outro número
+* Potenciação (******): utilizado para elevar um número à potência de outro número
 
 ## 3) Strings
 
-Variáveis do tipo string armazenam cadeias de caracteres como nomes e textos em geral. Chamamos cadeia de caracteres uma sequência de símbolos como letras, números, sinais de pontuação etc. É definida entre aspas simples ('Digite aqui seu texto') ou aspas duplas ("Digite aqui seu texto"). As strings são imutáveis, o que significa que não podem ser alteradas após a criação. No entanto, é possível criar uma nova string a partir de uma string existente, por exemplo, concatenando duas strings:
+Variáveis do tipo string armazenam cadeias de caracteres como nomes e textos em geral. Chamamos cadeia de caracteres uma sequência de símbolos como letras, números, sinais de pontuação etc. É definida entre aspas simples ('Digite aqui seu texto') ou aspas duplas ("Digite aqui seu texto"). As strings são imutáveis, o que significa que não podem ser alteradas após a criação. No entanto, é possível criar uma nova string a partir de uma string existente. Outra característica importante da strings é o fatiamento, permite literalmente fatiar as informações inseridas dentro da string conforme necessitar, com exemplos será mais claro.
 
 ## 4) Condições
 
@@ -47,6 +47,9 @@ Quando se é necessário tomar decisões com situações diferentes e se os prob
 As condições consistem no uso de uma estrutura de decisão, a primeira estrutura de decisão se chama **'if'** nada mais é que o famoso 'se', 'se' a condição for verdadeira será executado o código. Usarei exemplos para definir melhor essa função. Da mesma maneira e tentando resolver problemas de situações distintas quando o **'if'** não é atendido (situação verdadeira) tem a possibilidade de outra estrutura de decisão chamada **'else'**, comumente chamada de 'senão', ou seja, 'senão' for atendida a condição 'se' será executado o código descrito na condição **'else'** (situação falsa). Perceba que situação verdadeira e falsa é meramente instruções lógicas para atender problemas, caso uma situação lógica não for atendida a outra será colocada em prática. Em python é possível colocar mais de uma condição usando a instrução **'elif'**, isso permite solucionar diversos problemas.
 
 ## 5) Repetições
+
+A repetição "for" em Python é uma estrutura de controle que permite que um bloco de código seja executado várias vezes em uma sequência de valores. Há outra estrutura de repetição chamada "while" é utilizada em Python para executar um bloco de código repetidamente enquanto uma determinada condição for verdadeira.
+Geralmente é usado "for" quando o programador sabe a quantidade exata de repetições e "while" quando quer repetir até uma determinada condição.
 
 ## 6) Tuplas
 
