@@ -23,6 +23,7 @@ Bom para meu primeiro portfólio irei começar com as funções básicas de pyth
 
 Com esses tipos de variáveis, é possível armazenar diferentes tipos de dados e executar operações específicas em cada um deles. Saber identificar e entender cada tipo de variável em Python é fundamental para a escrita de um código correto e eficiente.
 
+Uma outra forma de entrada de dados é a função input() que em Python é utilizada para receber dados do usuário. Ela espera uma entrada de dados do usuário e retorna uma string com os dados digitados.
 
 ## 2) Operadores Aritméticos
 
