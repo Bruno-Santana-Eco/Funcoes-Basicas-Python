@@ -34,7 +34,7 @@ Os operadores aritméticos em Python são utilizados para realizar operações m
 * Divisão (/): utilizado para dividir valores. Retorna um número de ponto flutuante.
 * Divisão inteira (//): retorna o resultado da divisão com o resultado inteiro, sem arredondamento.
 * Resto da divisão (%): retorna o resto da divisão.
-* Potenciação (******): utilizado para elevar um número à potência de outro número
+* Potenciação (__**__): utilizado para elevar um número à potência de outro número
 
 ## 3) Strings
 
